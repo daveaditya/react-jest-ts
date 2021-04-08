@@ -1,0 +1,1 @@
+This folder contains the regular js files accessed by the application.
